@@ -1,5 +1,7 @@
 # Truth & Evidence — Review Toolkit
 
+**Explore online:** [Open the public browser experience](https://luckygithub777.github.io/truth-evidence-review-toolkit/). Explore source review and claim checks in the interactive companion; real claims still require independent evidence.
+
 A concise set of templates for separating sourced claims, uncertainties, risks and cautious public statements. The [fictional worked example](examples/fictional_high_noise_claim_review.md) illustrates how unsupported allegations should be held rather than amplified.
 
 - [Claim review card](templates/claim_review_card.md)
